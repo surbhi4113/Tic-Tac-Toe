@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-C#.NET
+C#.NET(Windows Application)
